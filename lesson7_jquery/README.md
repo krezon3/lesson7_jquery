@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 28,2017)
 
 ### Student Name:  
-(First and Last Name)
+(Christian Pughe)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(How to add exta effects to your contet by using javascipt.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://krezon3.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Was given a better undestand of .js
+2. How to connct html elements to effect programs like .js and .css
+3. How to problem solve and get creative with web developemnet.
 
